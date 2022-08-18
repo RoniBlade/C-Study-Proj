@@ -1,4 +1,3 @@
 ﻿  Source.cpp
-c:\users\тагир\documents\адам\backend\cppapps\asu kafedra\project1\project1\source.cpp(332): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\тагир\documents\адам\backend\cppapps\asu kafedra\project1\project1\films.h(180): warning C4715: Films::getkinosnameis: значение возвращается не при всех путях выполнения
+c:\users\тагир\documents\адам\backend\cppapps\asu kafedra\project1\project1\films.h(195): warning C4101: ihelp: неиспользованная локальная переменная
   Project1.vcxproj -> C:\Users\ТАГИР\Documents\Адам\Backend\CppApps\ASU Kafedra\Project1\Debug\Project1.exe
